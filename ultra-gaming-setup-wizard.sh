@@ -16,7 +16,7 @@ else
     clear
     echo -e "╔═══════════════════════════════════════════════════╗"
     echo -e "║YURIN's | ultimate-gaming-setup-wizard | greetings!║"
-    echo -e "║                                                   ║"
+    echo -e "║          (forked)                                 ║"
     echo -e "╚═══════════════════════════════════════════════════╝"
     echo -e ""
 fi
